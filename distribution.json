@@ -12,7 +12,7 @@
       "name": "우캣월드",
       "description": "woocatworld Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "sawoocat.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -504,6 +504,26 @@
             "size": 5520538,
             "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/servers/woocatworld-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "4ea0821879050ebc7b2d6ea6379074d2"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6857,
+            "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/servers/woocatworld-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 4867,
+            "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/servers/woocatworld-1.16.5/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
