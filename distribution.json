@@ -12,7 +12,7 @@
       "name": "우캣월드",
       "description": "woocatworld Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "sawoocat.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -462,7 +462,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 426255358,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/zogGWRSd/Pixelmon-1.16.5-9.1.12-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/CPLYWxEL/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "ff2466313b3ae1a562cdea566b6ef386"
           }
         },
