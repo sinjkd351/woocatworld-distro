@@ -10,9 +10,9 @@
     {
       "id": "woocatworld-1.16.5",
       "name": "우캣월드",
-      "description": "woocatworld Running Minecraft 1.16.5 (Forge v36.2.42)",
+      "description": "woocatworld Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "sawoocat.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -24,47 +24,47 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.42",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.34",
           "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 212563,
-            "MD5": "8ff0086ade0cf0f1d513e72edd04348c",
-            "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
+            "size": 212608,
+            "MD5": "e8de93b1e25fcb60d847b2565d35369c",
+            "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
-              "id": "1.16.5-36.2.42",
+              "id": "1.16.5-36.2.34",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 13577,
-                "MD5": "f38b527e26e0a0165e2118970d1a4d13",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
+                "MD5": "9cc72898a14a7d162d6813443761d30a",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.42:universal",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.34:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 2540080,
-                "MD5": "d5b89861a4e02bab15a111d529d99d86",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
+                "size": 2773337,
+                "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.42:client",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.34:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4214276,
-                "MD5": "e26430416f5d1bd7c205c1b81a0fb8f8",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
+                "size": 4214137,
+                "MD5": "8d8990d72f63d109f68fedf74182a3ea",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -75,7 +75,7 @@
               "classpath": true,
               "artifact": {
                 "size": 11352644,
-                "MD5": "0fd6a08f9c589dce61454dae06f59a19",
+                "MD5": "57ba2295ca986678c13461c760652a43",
                 "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -105,53 +105,53 @@
               "subModules": []
             },
             {
-              "id": "org.ow2.asm:asm:9.6",
+              "id": "org.ow2.asm:asm:9.1",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 123598,
-                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "size": 121790,
+                "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.6",
+              "id": "org.ow2.asm:asm-commons:9.1",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72194,
-                "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "size": 72641,
+                "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.6",
+              "id": "org.ow2.asm:asm-tree:9.1",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51935,
-                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "size": 52662,
+                "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.6",
+              "id": "org.ow2.asm:asm-util:9.1",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 91131,
-                "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "size": 84679,
+                "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.6",
+              "id": "org.ow2.asm:asm-analysis:9.1",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34041,
-                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "size": 34257,
+                "MD5": "f0e82941173b6049c03e8214ace70ecd",
+                "url": "https://raw.githubusercontent.com/sinjkd351/woocatworld-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
